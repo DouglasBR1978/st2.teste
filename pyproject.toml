@@ -6,7 +6,7 @@ authors = ["Vinicius Rocha Lima <vinicius@empowerdata.com.br>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.13"
+python = "^3.12"
 streamlit = "^1.42.2"
 pandas = "^2.2.3"
 
